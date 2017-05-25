@@ -29,18 +29,21 @@ ModelImporter:
     2300006: Tail
     2300008: Wing1
     2300010: Wing2
+    2300012: Body
     3300000: Body_MeshPart0
     3300002: Body_MeshPart1
     3300004: Head
     3300006: Tail
     3300008: Wing1
     3300010: Wing2
+    3300012: Body
     4300000: Head
     4300002: Tail
     4300004: Wing2
     4300006: Wing1
     4300008: Body_MeshPart0
     4300010: Body_MeshPart1
+    4300012: Body
     9500000: //RootNode
   materials:
     importMaterials: 1

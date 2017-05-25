@@ -1472,7 +1472,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1940136379536524
 GameObject:
   m_ObjectHideFlags: 1
@@ -3205,7 +3205,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myDart: {fileID: 1920755061476414}
-  cloneDart: {fileID: 1146763781957996, guid: 3ae6c525bdfa5c140b70813a0aba7824, type: 2}
+  cloneDart: {fileID: 1372662567070970, guid: 3ae6c525bdfa5c140b70813a0aba7824, type: 2}
   dartboard: {fileID: 0}
 --- !u!137 &137017834605788118
 SkinnedMeshRenderer:

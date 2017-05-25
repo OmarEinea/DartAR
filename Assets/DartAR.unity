@@ -816,10 +816,6 @@ Prefab:
       propertyPath: dartboard
       value: 
       objectReference: {fileID: 544043831}
-    - target: {fileID: 1920755061476414, guid: e338c16a153012447b62ca9e17b03662, type: 2}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e338c16a153012447b62ca9e17b03662, type: 2}
   m_IsPrefabParent: 0
