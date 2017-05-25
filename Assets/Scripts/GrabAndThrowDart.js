@@ -9,7 +9,7 @@ function Start () {
 	animator = GetComponent.<Animator>();
 }
 
-function OnDartPicked() {
+function OnDartGrabbed() {
 	myDart.SetActive(true);
 }
 

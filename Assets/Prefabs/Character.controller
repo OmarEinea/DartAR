@@ -240,7 +240,7 @@ AnimatorState:
   m_SpeedParameterActive: 0
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
-  m_Motion: {fileID: 7400002, guid: 2c91df45c30f66a42892105e8dff349a, type: 3}
+  m_Motion: {fileID: 7400006, guid: 20e98fc2ed5ea2040b6fd9a78865b503, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -251,7 +251,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Pick Dart
+  m_Name: Grab Dart
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -265,7 +265,7 @@ AnimatorState:
   m_SpeedParameterActive: 0
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
-  m_Motion: {fileID: 7400006, guid: 2c91df45c30f66a42892105e8dff349a, type: 3}
+  m_Motion: {fileID: 7400004, guid: 20e98fc2ed5ea2040b6fd9a78865b503, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -289,7 +289,7 @@ AnimatorState:
   m_SpeedParameterActive: 0
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
-  m_Motion: {fileID: 7400008, guid: 2c91df45c30f66a42892105e8dff349a, type: 3}
+  m_Motion: {fileID: 7400008, guid: 20e98fc2ed5ea2040b6fd9a78865b503, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -313,7 +313,7 @@ AnimatorState:
   m_SpeedParameterActive: 0
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 2c91df45c30f66a42892105e8dff349a, type: 3}
+  m_Motion: {fileID: 7400002, guid: 20e98fc2ed5ea2040b6fd9a78865b503, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
