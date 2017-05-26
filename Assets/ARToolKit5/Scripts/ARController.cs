@@ -1095,7 +1095,7 @@ public class ARController : MonoBehaviour
 						PluginFunctions.arwUpdateTextureGL(_videoTexture0.GetNativeTexturePtr().ToInt32());
 					} else {
 						//Log(LogTag + "Calling GL.IssuePluginEvent");
-						GL.IssuePluginEvent(System.IntPtr.Zero, (int)ARW_UNITY_RENDER_EVENTID.UPDATE_TEXTURE_GL);
+						GL.IssuePluginEvent((int)ARW_UNITY_RENDER_EVENTID.UPDATE_TEXTURE_GL);
 					}
 					
 				} else {
@@ -1166,7 +1166,7 @@ public class ARController : MonoBehaviour
 						PluginFunctions.arwUpdateTextureGLStereo(_videoTexture0.GetNativeTexturePtr().ToInt32(), _videoTexture1.GetNativeTexturePtr().ToInt32());
 					} else {
 						//Log(LogTag + "Calling GL.IssuePluginEvent");
-						GL.IssuePluginEvent(System.IntPtr.Zero, (int)ARW_UNITY_RENDER_EVENTID.UPDATE_TEXTURE_GL_STEREO);
+						GL.IssuePluginEvent((int)ARW_UNITY_RENDER_EVENTID.UPDATE_TEXTURE_GL_STEREO);
 					}
 
 				} else {
